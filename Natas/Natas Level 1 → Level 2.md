@@ -2,8 +2,8 @@
 
 ## Credentials
 
-Username: `natas1`  
-URL: `http://natas1.natas.labs.overthewire.org`
+Username: `natas2`  
+URL: `http://natas2.natas.labs.overthewire.org`
 
 ## Objective
 
