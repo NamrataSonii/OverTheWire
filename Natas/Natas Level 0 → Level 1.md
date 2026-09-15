@@ -1,4 +1,4 @@
-# Natas Level 1 → Level 2
+# Natas Level 0 → Level 1
 
 ## Credentials
 
