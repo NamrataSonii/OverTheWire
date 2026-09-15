@@ -1,8 +1,8 @@
 # Natas Level 0 → Level 1
 
-**Username:** `natas1`
+**Username:** `natas0`
 
-**URL:** http://natas1.natas.labs.overthewire.org
+**URL:** http://natas0.natas.labs.overthewire.org
 
 ## Objective
 
