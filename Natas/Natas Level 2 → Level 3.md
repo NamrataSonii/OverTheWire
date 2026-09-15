@@ -2,8 +2,8 @@
 
 ## Login Credentials
 
-**Username:** `natas2`  
-**URL:** `http://natas2.natas.labs.overthewire.org`
+**Username:** `natas3`  
+**URL:** `http://natas3.natas.labs.overthewire.org`
 
 ## Objective
 
