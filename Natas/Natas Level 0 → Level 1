@@ -1,8 +1,8 @@
 # Natas Level 0 → Level 1
 
-**Username:** `natas1`
+**Username:** `natas0`
 
-**URL:** http://natas1.natas.labs.overthewire.org
+**URL:** http://natas0.natas.labs.overthewire.org
 
 ## Objective
 
@@ -10,10 +10,17 @@ Find the password for the next level, `natas1`.
 
 ## Solution
 
-The password is hidden in the HTML source code of the webpage.
+The password for `natas1` is hidden in the HTML source code of the `natas0` webpage.
+
+### Steps
 
 1. Open the Natas Level 0 webpage.
-2. Right-click on the page and select **Inspect**.
-3. Go to the **Elements** tab.
-4. Look through the HTML source for a hidden comment containing the password.
+2. Right-click anywhere on the page.
+3. Select **Inspect**.
+4. Go to the **Elements** tab.
+5. Look for an HTML comment containing the password.
 
+You can also use:
+
+```text
+Ctrl + U
