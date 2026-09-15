@@ -1,4 +1,4 @@
-# Natas Level 0 → Level 1
+# Natas Level 0 
 
 **Username:** `natas0`
 
